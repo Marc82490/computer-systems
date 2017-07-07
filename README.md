@@ -1,1 +1,1 @@
-# computer-systems
+A collection of programs illustrating concepts in computer systems, covering themes like hardware architecture, operating systems, and systems software. I have created these to help understand some of the topics covered in "Computer Systems: A Programmer's Perspective" by Bryant and O'Hallaron.
